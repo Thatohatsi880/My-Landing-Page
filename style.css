@@ -1,0 +1,69 @@
+body{
+    background-color:  #cadefc;
+}
+
+     h1{
+        text-align: center;
+        color: goldenrod;
+      }
+
+      h2{
+        text-align: center;
+        border: 10px solid burlywood;
+        padding: 10px;
+        font-size: 20px;
+        border-radius: 25px 4px 2px;
+        color:black;
+        
+        }
+      
+      img{
+        display: block;
+        margin: 0 auto;
+        max-width: 100%;
+        border-radius: 10px;
+    }
+
+      p{
+        line-height: 1.5;
+        font-size: 20px;
+        margin: 0;
+      }
+
+      button{
+        display:block;
+        margin: 30px auto;
+        background-color: gold;
+        font-size: 15px;
+        padding:15px 20px;
+        border: none;
+        border-radius: 6px; 
+        box-shadow:5px 5px 10px  rgba(0, 0, 0, 0.5);
+        transition: all 200ms ease-in-out;
+      }
+
+      button:hover{
+        opacity: 0.5;
+        cursor:pointer;
+      }
+
+      .header{
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 30px 60px;
+      }
+
+      .Discover-more{
+        color:goldenrod;
+        text-decoration:dotted;
+        font-size: 20px;
+        
+
+      }
+      .Discover-more:hover{
+        text-decoration: underline;
+      }
+
+      .subject-footer{
+        text-align: center;
+      }
