@@ -3,7 +3,7 @@ body{
 }
 
 .header{
-  background-color:aliceblue;
+  background-image: url("https://dq0hsqwjhea1.cloudfront.net/2016-04-10_570a4d91b1679_2016-03-14-Aldebaran4-768x483.jpg");
   max-width: 600px;
   margin: 45px auto;
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
@@ -13,7 +13,7 @@ body{
 
 h1{
    text-align: center;
-   color: goldenrod;
+   color: black;
  }
 
  h2{
